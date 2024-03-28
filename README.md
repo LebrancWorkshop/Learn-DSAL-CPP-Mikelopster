@@ -11,4 +11,4 @@ Learning Data Structures and Algorithms with C++ by Mikelopster (Thai Software D
 
 ## Contents
 
-- [Chapter 01: Basic Programming C++]()
+- [Chapter 01: Basic Programming C++](https://github.com/LebrancWorkshop/Learn-DSAL-CPP-Mikelopster/blob/main/docs/chapter_01/README.md)
